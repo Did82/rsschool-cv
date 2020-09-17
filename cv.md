@@ -7,7 +7,7 @@
 * github: @Did82
 
 ## Summary
-
+My goal is to acquire skills and knowledge of javascript development
 
 ## Skills
 * HTML
