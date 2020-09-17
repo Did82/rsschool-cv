@@ -31,3 +31,5 @@ console.log(positiveSum([2, 5, -7, 9, -3, 10]));   //26
     * Specialisation: Telecommunications systems. Radio control and countermeasures. Engineer. Management specialist
 
 ## Languages
+* Russian (native speaker)
+* English (Pre-Intermediate, A2+)
